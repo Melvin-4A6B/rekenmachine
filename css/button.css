@@ -1,0 +1,359 @@
+/* button css stylesheet */
+
+#button0 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button0:hover {
+	background-color: #F1F1F1;
+}
+#button0:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button0:focus {
+	outline:0 !important;
+}
+#button1 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button1:hover {
+	background-color: #F1F1F1;
+}
+#button1:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button1:focus {
+	outline:0 !important;
+}
+#button2 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button2:hover {
+	background-color: #F1F1F1;
+}
+#button2:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button2:focus {
+	outline:0 !important;
+}
+#button3 {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button3:hover {
+	background-color: #F1F1F1;
+}
+#button3:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button3:focus {
+	outline:0 !important;
+}
+#button4 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button4:hover {
+	background-color: #F1F1F1;
+}
+#button4:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button4:focus {
+	outline:0 !important;
+}
+#button5 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button5:hover {
+	background-color: #F1F1F1;
+}
+#button5:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button5:focus {
+	outline:0 !important;
+}
+#button6 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button6:hover {
+	background-color: #F1F1F1;
+}
+#button6:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button6:focus {
+	outline:0 !important;
+}
+#button7 {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button7:hover {
+	background-color: #F1F1F1;
+}
+#button7:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button7:focus {
+	outline:0 !important;
+}
+#button8 {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button8:hover {
+	background-color: #F1F1F1;
+}
+#button8:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button8:focus {
+	outline:0 !important;
+}
+#button9 {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button9:hover {
+	background-color: #F1F1F1;
+}
+#button9:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button9:focus {
+	outline:0 !important;
+}
+#button_plus {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_plus:hover {
+	background-color: #F1F1F1;
+}
+#button_plus:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_plus:focus {
+	outline:0 !important;
+}
+#button_min {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_min:hover {
+	background-color: #F1F1F1;
+}
+#button_min:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_min:focus {
+	outline:0 !important;
+}
+#button_keer {
+	width: 50px;
+	height: 30px;
+	text-align: center;	
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_keer:hover {
+	background-color: #F1F1F1;
+}
+#button_keer:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_keer:focus {
+	outline:0 !important;
+}
+#button_delen {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_delen:hover {
+	background-color: #F1F1F1;
+}
+#button_delen:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_delen:focus {
+	outline:0 !important;
+}
+#button_is {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_is:hover {
+	background-color: #F1F1F1;
+}
+#button_is:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_is:focus {
+	outline:0 !important;
+}
+#button_plus {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_plus:hover {
+	background-color: #F1F1F1;
+}
+#button_plus:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_plus:focus {
+	outline:0 !important;
+}
+#button_leeg {
+	width: 50px;
+	height: 30px;
+	text-align: center;
+	font-weight: bold;
+	text-align: center;
+	margin: 5px;
+	border-radius: 3px;
+	border: 2px solid #CCC;
+	background-color: #F7F7F7;
+}
+#button_leeg:hover {
+	background-color: #F1F1F1;
+}
+#button_leeg:active {
+	border-radius: 3px;
+	border: 2px solid #CCC;
+}
+#button_leeg:focus {
+	outline:0 !important;
+}

@@ -1,0 +1,44 @@
+/* main css stylesheet */
+
+body {
+	color: #000;
+	background-color: #F1F1F1;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+h2 {
+	font-size: 1.5em;
+	text-align: center;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: blue;
+}
+#table1 {
+	border: 15px;
+	border-style: groove;
+	border-color: #90C3D4 #1A4452;
+}
+#tekstveld {
+	width: 255px;
+	text-align: right;
+	font-weight: bold;
+	outline:0 !important;
+}
+footer p {
+	text-align: center;
+}
+::-webkit-input-placeholder {
+    color: #000;
+    font-weight: bold;
+}
+:-moz-placeholder {
+    color: #000;
+    font-weight: bold;
+}
+:-ms-input-placeholder {
+    color: #000;
+    font-weight: bold;
+}
